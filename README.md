@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://stackoverflow.com/users/4710512/ishwor-khadka"><img src="https://stackoverflow.com/users/flair/4710512.png" width="208" height="58" alt="profile for Ishwor Khadka at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ishwor Khadka at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+My <b><a href = "https://www.linkedin.com/in/eshwor-khadka/">LinkedIn</a></b> Profile
