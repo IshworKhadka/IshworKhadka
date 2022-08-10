@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 My <b><a href = "https://www.linkedin.com/in/eshwor-khadka/">LinkedIn</a></b> Profile
 
-<b>Just read < a href = "http://web.archive.org/web/20130116005443/http://tomayko.com/writings/rest-to-my-wife">How I Explained REST to My Wife</a></b>
+<b>Just read <a href = "http://web.archive.org/web/20130116005443/http://tomayko.com/writings/rest-to-my-wife">How I Explained REST to My Wife</a></b>
